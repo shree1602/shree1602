@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shree
-- 👀 I’m interested in learning new things; Technologies is something I'm learning for my profession these days. 
-- 🌱 I’m currently learning Python, AWS; I just stepped into Technical role from non-tech role. 
-- 💞️ I’m looking to collaborate with freelancers, inspiring people and also kindly help me in learning more in this technical journey.
+- 👀 I’m interested in learning new things; Passionate on learning new technologies. 
+- 🌱 I’m currently learning Python. 
+- 💞️ I’m looking to collaborate with freelancers, founders and entrepreneur to work and contribute in their projects.
 - 📫 How to reach me: You can reach me in WhatsApp: +918668150603; You can also reach me in LinkedIn: https://www.linkedin.com/in/shreenivass/
 
 <!---
